@@ -25,7 +25,7 @@
     "draft-js": "^0.10.1",
     "howler": "^2.0.4",
     "immutable": "^3.8.1",
-    "pixi.js": "^4.5.3",
+    "pixi.js": "^5.0.0",
     "polished": "^1.2.1",
     "react": "^15.6.1",
     "react-a11y": "^0.3.4",
